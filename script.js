@@ -7,7 +7,7 @@ function scrollToSection(sectionId) {
 }
 
 // GSAP Animations
-document.addEventListener('DOMContentLoaded', function() {
+ document.addEventListener('DOMContentLoaded', function() {
   // Register ScrollTrigger plugin
   gsap.registerPlugin(ScrollTrigger);
   
